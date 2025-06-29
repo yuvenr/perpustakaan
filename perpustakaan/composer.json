@@ -1,0 +1,13 @@
+{
+    "name": "anda/proyek_perpus",
+    "description": "Proyek akhir sistem perpustakaan dengan REST API",
+    "require": {
+        "firebase/php-jwt": "^6.10"
+    },
+    "authors": [
+        {
+            "name": "Yuven Reksa",
+            "email": "yuvenr@student.ub.ac.id"
+        }
+    ]
+}
